@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 
-#welcome {
+#campuslife {
     color: #FFFFFF;
     bottom: 0;
     background: linear-gradient(#60ebeb 0%, #27ae60 100%);
@@ -12,7 +12,7 @@ body {
     z-index: 9;
 }
 
-#bio {
+#achievements {
     font-family: 'Cinzel Decorative', cursive;
     padding: 50px;
     text-align: center;
